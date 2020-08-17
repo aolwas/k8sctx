@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 dirs = "2.0.2"
 clap = "3.0.0-beta.1"
+clap_generate = "3.0.0-beta.1"
